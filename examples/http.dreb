@@ -6,4 +6,8 @@ server.get('/hello', fn (req, res) {
   return 'hello world from dreblang!'
 })
 
+server.get('/hello/<world>', fn (req, res) {
+  return 'hello world from dreblang! ' + req.params.world
+})
+
 server.listenAndServe(':9500')

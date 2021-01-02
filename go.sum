@@ -8,6 +8,8 @@ github.com/dreblang/corelib v0.0.0-20201230064036-ebb5e5ffae0b h1:i6EDMjuvFXd+4C
 github.com/dreblang/corelib v0.0.0-20201230064036-ebb5e5ffae0b/go.mod h1:dw+pgc+h7qcBZyGNIyBxPHHQP+M7oY39gusa+EloEj0=
 github.com/dreblang/corelib v0.0.0-20201230065155-67c939cf1456 h1:45I3xsNplWKvJqo90iqS3vw0xAJYIWevs0XlCEeH8hQ=
 github.com/dreblang/corelib v0.0.0-20201230065155-67c939cf1456/go.mod h1:CVVPcdiVIyB6Gz4kY7DW5TcPiJrvim9fzskvdBTcLL0=
+github.com/dreblang/corelib v0.0.0-20210102165030-b1b2b86ce266 h1:qqz27TLTZ98HOLlFjaRDJ3AXEMgYICuNNhitymgKg0w=
+github.com/dreblang/corelib v0.0.0-20210102165030-b1b2b86ce266/go.mod h1:CVVPcdiVIyB6Gz4kY7DW5TcPiJrvim9fzskvdBTcLL0=
 github.com/klauspost/compress v1.10.7 h1:7rix8v8GpI3ZBb0nSozFRgbtXKv+hOe+qfEpZqybrAg=
 github.com/klauspost/compress v1.10.7/go.mod h1:aoV0uJVorq1K+umq18yTdKaF57EivdYsUV+/s2qKfXs=
 github.com/qiangxue/fasthttp-routing v0.0.0-20160225050629-6ccdc2a18d87 h1:u7uCM+HS2caoEKSPtSFQvvUDXQtqZdu3MYtF+QEw7vA=
