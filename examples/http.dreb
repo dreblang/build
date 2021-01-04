@@ -9,7 +9,7 @@ server.get('/hello', fn (req, res) {
 server.get('/hello/<world>', fn (req, res) {
   res.status(http.StatusCreated)
   res.headers.set('content-type', 'application/json')
-  return '{ "hello": "' + req.params.world + '" }'
+  return {'hello': req.params.world}
 })
 
 server.get('/world/<world>', fn (req, res) {
