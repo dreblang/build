@@ -1,3 +1,3 @@
 #!/bin/bash
 
-go run ./dreblc $1
+go run ./cmd/dreblc $1
