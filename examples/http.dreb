@@ -1,5 +1,6 @@
 load http
 
+// Http Server
 server = http.createServer()
 
 server.get('/hello', fn (req, res) {
